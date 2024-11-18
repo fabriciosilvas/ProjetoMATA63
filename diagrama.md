@@ -1,4 +1,4 @@
-'''mermaid 
+´´´mermaid 
 classDiagram
 Responsável "1" -- "*" Estudante : possui
 Estudante "1" -- "*" Irmao : possui
@@ -73,4 +73,4 @@ class Turma {
 class Caderneta {
     
 }
-'''
+´´´
